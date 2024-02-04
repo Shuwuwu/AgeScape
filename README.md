@@ -2,6 +2,7 @@
 
 Introduction:
 This comprehensive data analysis centers on unraveling the intricate dynamics surrounding subject age during traffic stops. Utilizing the R programming language, our aim is to delve into the relationships between subject age and variables such as sex, race, and the make of the vehicle, shedding light on nuanced patterns within the dataset.
+dataset get from https://data.census.gov/
 
 Step 1: Variates Overview - Understanding the Age Variable:
 The initial step involves a detailed analysis of subject age, forming the bedrock for subsequent examinations. This exploration aims to provide a comprehensive overview of the age distribution within the dataset and establishes a baseline for further investigations.
